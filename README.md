@@ -61,5 +61,3 @@ The application calculates:
 - Original and encoded text lengths (in bits).
 - Compression ratio: `(original length) / (encoded length)`.
 - Average bits per character: `(encoded length) / (number of characters)`.
-
-## Example Output
